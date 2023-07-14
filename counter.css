@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+
+}
+
+
+
+.button {
+    border-radius: 10px;
+    width: 300px;
+    height: 100px;
+    background-color: whitesmoke;
+    font-size: 80px;
+    cursor: pointer;
+    border: solid red;
+} 
